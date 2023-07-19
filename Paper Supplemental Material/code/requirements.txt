@@ -1,0 +1,10 @@
+scipy~=1.6.0
+matplotlib~=3.3.4
+tensorflow~=2.4.1
+tensorflow-probability~=0.12.2
+Keras~=2.4.3
+joblib~=1.0.1
+setuptools~=51.0.0
+numpy~=1.19.5
+seaborn>=0.11.1
+pandas==1.2.3
